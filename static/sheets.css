@@ -12,7 +12,7 @@ overflow: hidden;
 }
 canvas {
     position: absolute;
-    top:0;
+    top:100px;
     left:0
 }
 /*FOOTER CHNAGES*/
