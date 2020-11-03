@@ -13,7 +13,7 @@ body, html {
 canvas {
   position: absolute;
   border: 1px solid black;
-  top:0 ;
+  top: 50px;
   left:0 ;
 }
 /*FOOTER CHNAGES*/
@@ -29,6 +29,7 @@ footer {
   background: linear-gradient(59deg, #ddbcd9, #9c5091);
   color: white;
 }
+
 
 footer a {
   color: #fff;
@@ -72,14 +73,22 @@ ul.social-network li {
 
 /* footer social icons */
 
-.social-network a.icoInstagram:hover {
-  background-color: #3B5998;
-}
 
+.social-network a.icoInstagram:hover {
+  background-color: #8d000c;
+}
+.social-network a.icoGithub:hover {
+  background-color: #3d0d50;
+}
+.social-network a.icoTwitter:hover {
+  background-color: #77acfc;
+}
 .social-network a.icoLinkedin:hover {
   background-color: #007bb7;
 }
 
+.social-network a.icoGithub:hover i,
+.social-network a.icoTwitter:hover i,
 .social-network a.icoInstagram:hover i,
 .social-network a.icoLinkedin:hover i {
   color: #fff;
