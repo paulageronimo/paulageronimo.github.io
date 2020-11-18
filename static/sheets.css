@@ -7,8 +7,6 @@ body, html {
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow-y: visible;
-  overflow-x: hidden;
 }
 
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
