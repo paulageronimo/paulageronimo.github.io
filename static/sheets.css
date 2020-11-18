@@ -92,8 +92,8 @@ footer {
   width: 100%;
   text-align: center;
   background: #16222A;
-  background: -webkit-linear-gradient(59deg, #292630, #1b1424);
-  background: linear-gradient(59deg, #292630, #1b1424);
+  background:#292630;
+  background:#292630;
   color: white;
 
 }
