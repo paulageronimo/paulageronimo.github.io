@@ -1,2 +1,2 @@
 # paulageronimo.github.io
-my website (before ramping it up)
+my website (not finished)
