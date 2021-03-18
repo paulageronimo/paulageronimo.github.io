@@ -4,7 +4,7 @@ import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
 import About from './components/about'
 import Projects from './components/projects'
-import Blog from './components/blog'
+// import Blog from './components/blog'
 import Timeline from './components/timeline'
 
 class App extends Component {
@@ -17,7 +17,7 @@ class App extends Component {
 			<Introduction></Introduction>
 			<About></About>
 			<Projects></Projects>
-			<Blog></Blog>
+			{/* <Blog></Blog> SAVING THIS FOR POTENTAIL BLOGGING ;b*/}
 			<Timeline></Timeline>
           	</div>
       	</div>
