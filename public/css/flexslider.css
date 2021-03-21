@@ -74,7 +74,7 @@ html[xmlns] .flexslider .slides {
  * ====================================================================================================================*/
 .flexslider {
   margin: 0 0 60px;
-  background: #ffffff;
+  background: #000000;
   border: 4px solid #ffffff;
   position: relative;
   zoom: 1;
@@ -209,7 +209,7 @@ html[xmlns] .flexslider .slides {
   width: 11px;
   height: 11px;
   display: block;
-  background: #666;
+  background: rgb(37, 37, 37);
   background: rgba(0, 0, 0, 0.5);
   cursor: pointer;
   text-indent: -9999px;
