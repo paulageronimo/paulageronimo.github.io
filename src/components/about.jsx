@@ -37,7 +37,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building applications using Flask, Python, Boostrap, JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building applications using Flask, Python, Boostrap, JavaScript, React, HTML, CSS</p>
                 </div>
                 </div>
             </div>

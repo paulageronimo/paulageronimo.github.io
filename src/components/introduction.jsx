@@ -7,7 +7,7 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/img_bg.png)'}}>
+              <li style={{backgroundImage: 'url(images/img_bg.gif)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -22,7 +22,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img_bg.png)'}}>
+              <li style={{backgroundImage: 'url(images/img_bg.gif)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -30,14 +30,14 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>i love to<br /> teach, learn, and build!</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/paulageronimo" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/paulageronimo" target="_blank" rel="noopener noreferrer">view Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img_bg.png)'}}>
+              <li style={{backgroundImage: 'url(images/img_bg.gif)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
