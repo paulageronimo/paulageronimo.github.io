@@ -36,7 +36,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #333333;
-  font-family: "Playfair Display", Georgia, serif;
+  font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 30px 0; }
 
@@ -56,15 +56,15 @@ figure {
         width: 100%; } }
 
 ::-webkit-selection {
-  color: #fff;
+  color: rgba(0, 0, 0, 0.2);
   background: #2c98f0; }
 
 ::-moz-selection {
-  color: #fff;
+  color: rgba(0, 0, 0, 0.2);
   background: #2c98f0; }
 
 ::selection {
-  color: #fff;
+  color: rgba(0, 0, 0, 0.2);
   background: #2c98f0; }
 
 #colorlib-page {
@@ -1305,9 +1305,9 @@ body.offcanvas {
   cursor: pointer;
   text-decoration: none; }
   .colorlib-nav-toggle.active i::before, .colorlib-nav-toggle.active i::after {
-    background: white; }
+    background: rgba(0, 0, 0, 0.2); }
   .colorlib-nav-toggle.dark.active i::before, .colorlib-nav-toggle.dark.active i::after {
-    background: white; }
+    background: rgba(0, 0, 0, 0.2); }
   .colorlib-nav-toggle:hover, .colorlib-nav-toggle:focus, .colorlib-nav-toggle:active {
     outline: none;
     border-bottom: none !important; }
@@ -1323,7 +1323,7 @@ body.offcanvas {
     font: bold 14px/.4 Helvetica;
     text-transform: uppercase;
     text-indent: -55px;
-    background: white;
+    background: rgba(0, 0, 0, 0.2);
     -webkit-transition: all .2s ease-out;
     -o-transition: all .2s ease-out;
     transition: all .2s ease-out; }
@@ -1331,7 +1331,7 @@ body.offcanvas {
       content: '';
       width: 30px;
       height: 2px;
-      background: white;
+      background: rgba(0, 0, 0, 0.2);
       position: absolute;
       left: 0;
       -webkit-transition: 0.2s;
@@ -1340,12 +1340,12 @@ body.offcanvas {
   .colorlib-nav-toggle.dark i {
     position: relative;
     color: #333333;
-    background: white;
+    background: rgba(0, 0, 0, 0.2);
     -webkit-transition: all .2s ease-out;
     -o-transition: all .2s ease-out;
     transition: all .2s ease-out; }
     .colorlib-nav-toggle.dark i::before, .colorlib-nav-toggle.dark i::after {
-      background: white;
+      background: rgba(0, 0, 0, 0.2);
       -webkit-transition: 0.2s;
       -o-transition: 0.2s;
       transition: 0.2s; }
