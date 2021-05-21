@@ -31,13 +31,13 @@ export default class About extends Component {
             </div>
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
+                <div className="services color-4">
                 <span className="icon">
-                    <i className="icon-bulb" />
+                    <i className="icon-layers2" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building applications using Flask, Python, Boostrap, JavaScript, React, HTML, CSS</p>
+                    <h3>Web Development</h3>
+                    <p>Web apps, websites; Flask, Python, Boostrap, JavaScript, React, HTML, CSS, Typescript</p>
                 </div>
                 </div>
             </div>
@@ -47,8 +47,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Community Impact</h3>
-                    <p>I have been doing research since I was in high school. Research focuses include low-income community focuses, microgrids, engineering enculturation, human-computer interactions, and Latinos in entrepenuership.</p>
+                    <h3>Research Impact</h3>
+                    <p>Research focuses: low-income community, microgrids, engineering enculturation, human-computer interactions, and Latino entrepenuership.</p>
                 </div>
                 </div>
             </div>
@@ -59,34 +59,34 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Corporate Impact</h3>
-                    <p>I</p>
+                    <p>Internships: Wells Fargo- Technology Program (2021), Facebook - FBU Engineering (2021) </p>
                 </div>
                 </div>
             </div>
-            {/*
+            
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
+                    <h3>Non-profit Impact</h3>
+                    <p>5 years volunteering with the Youth Advisory Committee of South Laredo's Las Promesas de Laredo; Web Engineering Fellow for Rise First, First Generation-Low Income (FGLI) college student-centered organization</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
+                <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-layers2" />
+                    <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
+                    <h3>Innovator, creator, and more...</h3>
+                    <p>1st Place TI-RSLK Robotics, 3rd Place Texas A&M Regional Engineering Conference (TREC)</p>
                 </div>
                 </div>
             </div>
-            <div className="col-md-4 text-center animate-box">
+            {/* <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">
                     <i className="icon-phone3" />
