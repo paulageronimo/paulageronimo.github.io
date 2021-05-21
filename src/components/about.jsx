@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">about</span>
                     <h2 className="colorlib-heading">who am i?</h2>
-                    <p>i am a second year engineering student from texas a&m university. I am passionate about technological innovations.</p>
+                    <p>i am an incoming third year engineering student from texas a&m university. I am passionate about technological innovations.</p>
                     </div>
                 </div>
                 </div>
@@ -26,7 +26,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">what do i do?</span>
-                <h2 className="colorlib-heading">here is a bit of what i am good at</h2>
+                {/* <h2 className="colorlib-heading">here is a bit of what i am good at</h2> */}
             </div>
             </div>
             <div className="row row-pt-md">
@@ -47,8 +47,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <h3>Community Impact</h3>
+                    <p>I have been doing research since I was in high school. Research focuses include low-income community focuses, microgrids, engineering enculturation, human-computer interactions, and Latinos in entrepenuership.</p>
                 </div>
                 </div>
             </div>
@@ -58,8 +58,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with Facebook and Wells Fargo</p>
+                    <h3>Corporate Impact</h3>
+                    <p>I</p>
                 </div>
                 </div>
             </div>
