@@ -63,18 +63,6 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
-            
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Non-profit Impact</h3>
-                    <p>5 years volunteering with the Youth Advisory Committee of South Laredo's Las Promesas de Laredo; Web Engineering Fellow for Rise First, First Generation-Low Income (FGLI) college student-centered organization</p>
-                </div>
-                </div>
-            </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
@@ -86,6 +74,18 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-2">
+                <span className="icon">
+                    <i className="icon-data" />
+                </span>
+                <div className="desc">
+                    <h3>Non-profit Impact</h3>
+                    <p>5 years volunteering with the Youth Advisory Committee of South Laredo's Las Promesas de Laredo; Web Engineering Fellow for Rise First, First Generation-Low Income (FGLI) college student-centered organization</p>
+                </div>
+                </div>
+            </div>
+            
             {/* <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">
@@ -93,7 +93,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <p>I use:) </p>
                 </div>
                 </div>
             </div>
