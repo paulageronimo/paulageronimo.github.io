@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+html,
+body {
+    font-family: "RobotoMono", sans-serif;
+    background-color: #111;
+    color: #fff;
+}
+
+section img {
+  width: 100%;
+  height: auto;
+}
+
+.break-text p {
+  word-wrap: break-word;
+}
+
+section {
+  padding-top: 2rem;
+}
+
+.dates {
+  color: gray;
+}
+
+.btn-link, a {
+  color: #17a2b8;
+}
+
+ul {
+  margin-top: -15px;
+}
+
+#awards ul {
+  margin-top: 0px;
+}
+
+#projects .col-md-auto {
+  padding: 16px;
+  color:#111
+}
