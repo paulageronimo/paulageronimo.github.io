@@ -39,3 +39,7 @@ ul {
   padding: 16px;
   color:#111
 }
+
+.card-body p {
+  font-size: 14px;
+}
