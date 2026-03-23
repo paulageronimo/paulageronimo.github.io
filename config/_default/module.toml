@@ -1,2 +1,9 @@
 [[imports]]
     path = "github.com/CaiJimmy/hugo-theme-stack/v4"
+
+[[imports]]
+  path = "github.com/tabler/tabler-icons"
+
+[[imports.mounts]]
+  source = "icons/outline"
+  target = "assets/icons"

@@ -10,21 +10,22 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
-    customText = ""
+    since      = 2026
+    customText = "📍 AZ | Powered by Hugo + Stack | © CC BY-NC-SA 4.0"
 
 [dateFormat]
     published   = ":date_full"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    avatar   = "img/avatar.png"
+    emoji    = "🌱"
+    subtitle = "Born in Texas, Living in Arizona, wandering everywhere else."
+    avatar   = "https://avatars.githubusercontent.com/u/41409758?v=4"
 
 [article]
     headingAnchor = false
     math          = false
+    toc           = true
     readingTime   = true
 
     [article.license]
@@ -34,14 +35,14 @@ SortBy              = "default"
 [widgets]
     homepage = [
         { type = "search" },
-        { type = "archives", params = { limit = 5 } },
+        # { type = "archives", params = { limit = 5 } },
         { type = "categories", params = { limit = 10 } },
         { type = "tag-cloud", params = { limit = 10 } },
     ]
     page = [{ type = "toc" }]
 
 [opengraph.twitter]
-    site = ""
+    site = "@paulatechs"
     card = "summary_large_image"
 
 [colorScheme]
@@ -49,9 +50,9 @@ SortBy              = "default"
     default = "auto"
 
 ## Comments
-[comments]
-    enabled  = true
-    provider = "disqus"
+# [comments]
+#     enabled  = true
+#     provider = "disqus"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.

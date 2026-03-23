@@ -1,0 +1,15 @@
+<footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        {{ if .Site.Params.footer.since }}
+            {{ .Site.Params.footer.since }} - 
+        {{ end }}
+        {{ now.Format "2006" }} {{ .Site.Title }}
+    </section>
+    
+    <section class="powerby">
+        {{ with .Site.Params.footer.customText }}
+            {{ . | markdownify }}
+        {{ end }}
+    </section>
+</footer>

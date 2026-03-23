@@ -2,6 +2,7 @@
 title: Image gallery
 description: Create beautiful interactive image gallery using Markdown
 date: 2023-08-26 00:00:00+0000
+draft: true
 image: 2.jpg
 ---
 
@@ -16,6 +17,10 @@ To use this feature, the image must be in the same directory as the Markdown fil
 ```
 
 ## Result
+
+![Image 1](1.jpg) ![Image 2](2.jpg)
+
+
 
 ![Image 1](1.jpg) ![Image 2](2.jpg)
 
