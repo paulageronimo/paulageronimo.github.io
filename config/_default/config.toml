@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://paulageronimo.github.io"
+baseurl      = "https://paulasnotes.com"
 languageCode = "en-us"
 title        = "Paula's Notes!"
 
